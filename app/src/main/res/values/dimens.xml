@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Product Details Activity -->
+    <dimen name="left_margin_details_activity">24dp</dimen>
+    <dimen name="right_margin_details_activity">24dp</dimen>
+    <dimen name="bottom_margin_details_activity">24dp</dimen>
+    <dimen name="top_margin_details_activity">24dp</dimen>
+
+    <!--Product Details Labels-->
+    <dimen name="margin_top_details_label">16dp</dimen>
+    <dimen name="margin_bottom_details_label">16dp</dimen>
+
+
+</resources>

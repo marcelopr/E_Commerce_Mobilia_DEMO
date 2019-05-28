@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFEB3B</color>
+    <color name="colorPrimaryDark">#DDCC34</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="background_main">#f2f2f2</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#111111</color>
+    <color name="grey">#C7C7C7</color>
+    <color name="red">#FF0000</color>s
+
+    <!--item_list-->
+    <color name="background_item_list">#F3F3F3</color>
+    <color name="background_item_list_dark">#CACACA</color>
+    <color name="price_item_list">#729E3D</color>
+
+    <!-- Pot colors -->
+    <color name="pot_light_grey">#e6e8ea</color>
+    <color name="pot_brown">#c78356</color>
+    <color name="pot_black">#3b4037</color>
+    <color name="pot_dark_blue">#3b5d7d</color>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GreenHouse</string>
+
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <!-- Itens da barra de ferramentas -->
+    <string name="menu_item_search">Pesquisar</string>
+    <string name="menu_item_share">Compartilhar</string>
+    <string name="menu_item_favorite">Favoritos</string>
+    <string name="menu_item_shopping_cart">Carrinho de compras</string>
+
+    <!--Sinais-->
+    <string name="label_money_sign">R$</string>
+    <string name="label_centimeters_sign">cm</string>
+
+    <!--Labels -->
+    <string name="label_height">Altura</string>
+    <string name="label_width">Comp.</string>
+    <string name="label_depth">Prof.</string>
+    <string name="label_categories">Categorias</string>
+    <string name="label_all">Todas</string>
+    <string name="label_chair">Cadeira</string>
+    <string name="label_bed">Cama</string>
+    <string name="label_table">Mesa</string>
+    <string name="label_cabinet">Armário</string>
+    <string name="label_sofa">Sofá</string>
+    <string name="label_empty_category">Nenhum item encontrado nesta categoria.</string>
+
+    <!--Buttons-->
+    <string name="add_to_cart">add ao carrinho</string>
+
+    <!--Messages-->
+    <string name="message_its_a_demo">É apenas uma demo! ;D</string>
+    <string name="message_empty_category">Nenhum item encontrado na categoria </string>
+
+</resources>
